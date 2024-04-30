@@ -59,6 +59,3 @@ After cleaning and preprocessing the data, we identified the following top corre
 - Vaccinated: Percentage of the population vaccinated against certain diseases or infections.
 - Rural: Number of individuals living in rural areas within the population.
 - Homeowners: Number of individuals who own homes within the population.
-
-
-- 
