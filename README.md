@@ -23,13 +23,6 @@ These values serve as a testament to the predictive power of our models in captu
 
 ---
 
-## How to Use 🛠️
-1. **Clone the Repository:** Begin by cloning this repository to your local machine.
-2. **Install Dependencies:** Ensure you have the required dependencies installed as specified in requirements.txt.
-3. **Explore the Code:** Dive into the Jupyter notebooks within the Code directory to explore data preprocessing steps, model training, and evaluation.
-4. **Analyze Results:** Take a deep dive into the visualizations and analysis results presented in the Results directory.
-5. **Contribute:** Feel inspired? Contribute to the project by opening issues, proposing enhancements, or submitting pull requests.
-
 ## Future Directions 🔍
 - **Model Refinement:** Continuously refine and optimize our predictive models to improve accuracy and robustness.
 - **Data Expansion:** Explore additional datasets and variables to enrich our understanding of mortality patterns.
