@@ -51,14 +51,14 @@ The data used in this analysis were sourced from the following sources:
 After cleaning and preprocessing the data, we identified the following top correlations to life expectancy in Tennessee counties:
 - 80th Percentile Income: Represents the income level at which 80% of the population earns less and 20% earns more, indicating income distribution.
 - 20th Percentile Income: Indicates the income level at which 20% of the population earns less and 80% earns more, providing another measure of income distribution.
-- % Some College: Percentage of individuals in the population who have completed some level of college education.
+- Some College: Percentage of individuals in the population who have completed some level of college education.
 - Life Expectancy (White): The average lifespan specifically among individuals identified as White within the population.
-- % Asian: Percentage of individuals in the population who identify as Asian.
-- # Non-Hispanic White: Number of individuals in the population who identify as White and are not of Hispanic origin.
+- Asian: Percentage of individuals in the population who identify as Asian.
+- Non-Hispanic White: Number of individuals in the population who identify as White and are not of Hispanic origin.
 - Dentist Rate: Number of dentists per capita in the population.
-- % Vaccinated: Percentage of the population vaccinated against certain diseases or infections.
-- # Rural: Number of individuals living in rural areas within the population.
-- # Homeowners: Number of individuals who own homes within the population.
+- Vaccinated: Percentage of the population vaccinated against certain diseases or infections.
+- Rural: Number of individuals living in rural areas within the population.
+- Homeowners: Number of individuals who own homes within the population.
 
 
 - 
