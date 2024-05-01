@@ -1,6 +1,6 @@
 # Mortality Patterns Analysis in Tennessee Counties (2019-2021) 📊
 
-🔍 **Welcome to the Mortality Patterns Analysis repository! Here, we delve into the complexity of mortality rates across Tennessee counties from 2019 to 2021. Our goal is to uncover insights into mortality patterns and identify key factors driving these variations. We employ a range of advanced predictive models to shed light on this critical public health issue.**
+🔍 **Thus project focuses on the complexity of mortality rates across Tennessee counties from 2019 to 2021. Our goal is to uncover insights into mortality patterns and identify key factors driving these variations. We employ a range of advanced predictive models to shed light on this critical public health issue.**
 
 ## Project Overview 📋
 Mortality rates are a crucial indicator of a region's overall health and well-being. In this project, we explore mortality patterns in Tennessee counties over a three-year period, aiming to understand the underlying factors contributing to variations in mortality rates. By leveraging extensive datasets on mortality rates and demographics, we seek to provide actionable insights for healthcare policymakers and practitioners to inform targeted interventions and resource allocation strategies.
